@@ -1,6 +1,6 @@
 import ProjectCard from "./ProjectCard.jsx";
 import chunPreview from "../assets/chun-preview.jpg";
-import logo from "../assets/logo.svg";
+import logo from "../assets/logo.png";
 
 const Projects = () => {
     const projects = [
@@ -19,18 +19,17 @@ const Projects = () => {
     ];
 
     return (
-        <section className="w-full min-h-screen bg-white py-16" id="projects">
-            <div
-                className="grid grid-cols-2 md:grid-cols-4 gap-4 px-4 lg:px-8"
-            >
-                {projects.map((project, index) => (
+        <section
+            className="w-full flex flex-col items-center"
+            id="projects"
+        >
+            {projects.map((project) => (
+                <div
+                    key={project.id}
+                    className="w-full h-screen flex justify-center items-center my-16"
+                >
                     <div
-                        key={project.id}
-                        className={`${
-                            index === 0
-                                ? "col-span-2 row-span-2"
-                                : "col-span-1 row-span-1"
-                        } bg-white rounded-lg shadow-md`}
+                        className="w-4/5 h-[80vh] flex items-center justify-center"
                     >
                         <ProjectCard
                             image={project.image}
@@ -38,8 +37,8 @@ const Projects = () => {
                             description={project.description}
                         />
                     </div>
-                ))}
-            </div>
+                </div>
+            ))}
         </section>
     );
 };
