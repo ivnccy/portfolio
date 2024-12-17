@@ -1,4 +1,6 @@
 import ProjectCard from "./ProjectCard.jsx";
+import chunPreview from "../assets/chun-preview.jpg";
+import logo from "../assets/logo.svg";
 
 const Projects = () => {
     const projects = [
@@ -6,13 +8,13 @@ const Projects = () => {
             id: 1,
             name: "Chun Amsterdam",
             description: "design, development",
-            image: "/src/assets/chun-preview.jpg",
+            image: chunPreview,
         },
         {
             id: 2,
             name: "portfolio website",
             description: "design, development",
-            image: "/src/assets/logo.svg",
+            image: logo,
         },
     ];
 

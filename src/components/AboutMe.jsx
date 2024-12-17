@@ -13,11 +13,10 @@ const AboutMe = () => {
 
                 <div className="text-center space-y-6">
                     <p className="text-lg text-gray-600 leading-relaxed">
-                        I’m a software developer with a passion for building visually appealing and functional applications.
-                        I enjoy experimenting with modern tools, frameworks, and techniques to bring ideas to life.
+                        I like experimenting with stuff, especially with tech.
                     </p>
                     <p className="text-lg text-gray-600 leading-relaxed">
-                        Outside of coding, I’m a Rubik’s cube enthusiast, with a competition solve time of 16.94 seconds. I also enjoy learning new skills and staying curious about the ever-evolving tech landscape.
+                        Fun fact: I solved a Rubik's cube in 16,94 seconds at a competition.
                     </p>
                 </div>
 
