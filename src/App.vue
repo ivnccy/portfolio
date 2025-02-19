@@ -1,6 +1,6 @@
 <script setup>
 import Head from './components/Head.vue'
-import Projects from "@/components/Projectss.vue";
+import Projects from "@/components/Projects.vue";
 </script>
 
 <template>
