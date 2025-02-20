@@ -15,8 +15,8 @@ import Projects from "./components/Projects.vue";
   display: flex;
   flex-direction: column;
   padding: 2%;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 @media only screen and (max-width: 600px) {
