@@ -19,10 +19,12 @@
     <section>
       <p>Contact</p>
       <p id="links">
-        Say hi!
-        <a href="mailto:ivanccy04@gmail.com">Email</a>
+        Say hi to me through
+        <a href="mailto:ivanccy04@gmail.com">Email,</a>
         <a href="https://www.linkedin.com/in/ivanccy/">LinkedIn</a>
+        or have a look at my
         <a href="https://github.com/ivnccy">Github</a>
+        .
       </p>
     </section>
   </div>
@@ -45,7 +47,8 @@ section{
 
 #links{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  gap: 4px;
 }
 
 a{

@@ -13,15 +13,16 @@ import Projects from "./components/Projects.vue";
 <style scoped>
 .main{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   padding: 2%;
-  margin-left: 30%;
-  margin-right: 30%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 @media only screen and (max-width: 600px) {
   .main{
     margin: 4%;
+    flex-direction: column;
   }
 }
 </style>

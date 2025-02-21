@@ -38,7 +38,7 @@ const projects = [
 
 <style scoped>
 .container{
-  padding-top: 78px;
+  padding-top: 20%;
 }
 
 .project{
