@@ -48,6 +48,7 @@ section{
 #links{
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   gap: 4px;
 }
 
