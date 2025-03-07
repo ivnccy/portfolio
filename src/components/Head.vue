@@ -10,11 +10,21 @@
     </section>
     <section>
       <p>Currently</p>
-      <p>Software Engineering student at Hogeschool van Amsterdam and a web developer at Chun Amsterdam.</p>
+      <p>Software Engineering student at Hogeschool van Amsterdam and a web developer and part of the e-commerce deparment at Chun Amsterdam.</p>
+    </section>
+    <section>
+      <p>What I work with</p>
+      <p>
+        Front-end: Vue js, React, TailwindCSS, GSAP
+        <br />
+        Back-end: Spring, Hibernate, MySQL
+        <br />
+        Languages: Java, TypeScript, JavaScript, HTML, CSS
+      </p>
     </section>
     <section>
       <p>More about me</p>
-      <p>I love to learn, especially when it's something I stand behind. In my free time I enjoy making coffee and climbing.</p>
+      <p>I love to learn, especially when it's something I am passionate about. In my free time I enjoy making coffee and climbing.</p>
     </section>
     <section>
       <p>Contact</p>

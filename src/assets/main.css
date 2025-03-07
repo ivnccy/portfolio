@@ -6,3 +6,8 @@ body {
     font-size: 12px;
     background: #F3F4F6;
 }
+
+.dark-mode{
+    background: #0b1014;
+    color: #F3f3f3;
+}
