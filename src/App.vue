@@ -13,7 +13,7 @@ import Projects from "./components/Projects.vue";
 <style scoped>
 .main{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   padding: 2%;
   margin-left: 25%;
   margin-right: 25%;

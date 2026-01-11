@@ -24,7 +24,7 @@
     </section>
     <section>
       <p>More about me</p>
-      <p>I love to learn, especially when it's something I am passionate about. In my free time I am currently training for an Ironman.</p>
+      <p>I love to learn, especially when it's something I am passionate about. In my free time I am currently training for an Ironman, and building an app to optimize caffeine.</p>
     </section>
     <section>
       <p>Contact</p>
