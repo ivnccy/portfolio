@@ -15,9 +15,9 @@
     <section>
       <p>What I work with</p>
       <p>
-        Front-end: Vue js, React, TailwindCSS, GSAP
+        Front-end: Vue js, React, TailwindCSS, React Native
         <br />
-        Back-end: Spring, Hibernate, MySQL
+        Back-end: Spring, Hibernate, MySQL, MongoDB
         <br />
         Languages: Java, TypeScript, JavaScript, HTML, CSS
       </p>
