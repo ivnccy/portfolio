@@ -32,7 +32,7 @@ const projects = [
     id: 4,
     title: 'Recall',
     link: '',
-    description: 'Recall is a speculative design project combining a wearable prototype and an interactive web app to explore what happens when a person is given control over their memories. Built to spark conversation about the ethics behind future technology.',
+    description: 'I designed and built Recall to prototype what an unethically designed consumer device of the near future might actually look and feel like. The goal was to make something genuinely helpfulp on the surface first, but is an incredibly dangerous device underneath.',
     image: recall
   }
 
