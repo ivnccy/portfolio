@@ -2,6 +2,7 @@
 import chun from '@/assets/images/chun.png';
 import eurowijzer from '@/assets/images/eurowijzer.png'
 import cafftrack from '@/assets/images/caffeinetracker.png'
+import recall from '@/assets/images/recall.png'
 
 const projects = [
   {
@@ -27,6 +28,14 @@ const projects = [
     'which might be handy for people that want to become more conscious about their caffeine and sleep habits.',
     image: cafftrack
   },
+  {
+    id: 4,
+    title: 'Recall',
+    link: '',
+    description: 'Recall is a speculative design project combining a wearable prototype and an interactive web app to explore what happens when a person is given control over their memories. Built to spark conversation about the ethics behind future technology.',
+    image: recall
+  }
+
 ];
 </script>
 
